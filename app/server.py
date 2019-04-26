@@ -13,6 +13,8 @@ from fastai.vision import *
 #export_file_url = 'https://drive.google.com/uc?export=download&id=1W0GyHzpkpqdND2x_ZGLcbeZFucDiZHxe' #model-2
 #export_file_url = 'https://drive.google.com/uc?export=download&id=1D2OuhLtZO77VrJgdt_5O18bC9WoFlSDV'  #team-25 model
 export_file_url = 'https://drive.google.com/uc?export=download&id=1iabFFgyqn1IdV2ZqtV2GaJaofRjnMwHV'  #family-8 model
+export_file_url = 'https://drive.google.com/uc?export=download&id=1jZIwNRqB-GfGoI31vtcLaSBirb3MxvK8'  #family-4 model
+
 export_file_name = 'export.pkl'
 
 #classes = ['black', 'grizzly', 'teddys']
