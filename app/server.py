@@ -14,7 +14,8 @@ from fastai.vision import *
 export_file_url = 'https://drive.google.com/uc?export=download&id=1D2OuhLtZO77VrJgdt_5O18bC9WoFlSDV'  #team-25 model
 export_file_name = 'export.pkl'
 
-classes = ['black', 'grizzly', 'teddys']
+#classes = ['black', 'grizzly', 'teddys']
+classes = ['manut','arsen','bayer','barce','liver']
 path = Path(__file__).parent
 
 app = Starlette()
