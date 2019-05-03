@@ -11,9 +11,10 @@ from fastai.vision import *
 # export_file_url = 'https://www.dropbox.com/s/v6cuuvddq73d1e0/export.pkl?raw=1' original
 #export_file_url = 'https://drive.google.com/uc?export=download&id=1IcH9W_KY0XaHf2sR8iknVLKXjubddx6J' model-1
 #export_file_url = 'https://drive.google.com/uc?export=download&id=1W0GyHzpkpqdND2x_ZGLcbeZFucDiZHxe' #model-2
-export_file_url = 'https://drive.google.com/uc?export=download&id=1D2OuhLtZO77VrJgdt_5O18bC9WoFlSDV'  #team-25 model
+#export_file_url = 'https://drive.google.com/uc?export=download&id=1D2OuhLtZO77VrJgdt_5O18bC9WoFlSDV'  #team-25 model
 #export_file_url = 'https://drive.google.com/uc?export=download&id=1iabFFgyqn1IdV2ZqtV2GaJaofRjnMwHV'  #family-8 model
 #export_file_url = 'https://drive.google.com/uc?export=download&id=1jZIwNRqB-GfGoI31vtcLaSBirb3MxvK8'  #family-4 model
+export_file_url = 'https://drive.google.com/uc?export=download&id=1bDJ4UzzLvBvvO5eoZGD-eUf8qpSc4vOe'   #multilabel-family
 
 export_file_name = 'export.pkl'
 
