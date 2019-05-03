@@ -19,7 +19,22 @@ export_file_url = 'https://drive.google.com/uc?export=download&id=1bDJ4UzzLvBvvO
 export_file_name = 'export.pkl'
 
 #classes = ['black', 'grizzly', 'teddys']
-classes = ['manut','arsen','bayer','barce','liver']
+#classes = ['manut','arsen','bayer','barce','liver']
+classes =['bathroom',
+  'car',
+  'drink',
+  'drive',
+  'kitchen',
+  'kneel',
+  'lying',
+  'outing',
+  'outside',
+  'play',
+  'sit',
+  'sittingroom',
+  'sleeproom',
+  'stand',
+  'watchtv']
 #classes = ['my_family','my_friend']
 path = Path(__file__).parent
 
